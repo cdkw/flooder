@@ -19,7 +19,6 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system('cls' if os.name == 'nt' else 'clear')
-os.system("title Flooder v2.7")
 print(B+"  ______ _                 _           ")
 print(" |  ____| |               | |          ")
 print(" | |__  | | ___   ___   __| | ___ _ __ ")
