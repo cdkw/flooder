@@ -1,6 +1,5 @@
-# UDP Powerful Flood attack tool (Python3)
-## - EDUCATIONAL PURPOSES ONLY - 
-
+# UDP Powerful Flood attack tool written in Python 3
+<p align="center">Do not attack anyone without their consent.</p>
 <p align="center"><img src="https://i.imgur.com/UdclI8E.png" width="743" height="422" alt="SCRIPT"></p>
 
 
