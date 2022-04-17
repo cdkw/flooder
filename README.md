@@ -22,7 +22,7 @@ On windows you can also get the executable from the releases page.
 ```shell script
 git clone https://github.com/cdkw/flooder.git
 cd flooder
-pip install -r requirements.txt
+pip install sockets
 ```
 
 **Running**
