@@ -8,7 +8,7 @@
 <a href="https://github.com/cdkw/flooder/issues"><img alt="flooder issues" src="https://img.shields.io/github/issues/cdkw/flooder?color=purple&style=for-the-badge"></a>
 
 <p align="center">Do not attack anyone without their consent.</p>
-<p align="center"><img src="https://i.imgur.com/UdclI8E.png" width="743" height="422" alt="SCRIPT"></p>
+<p align="center"><img src="https://i.imgur.com/UdclI8E.png" alt="SCRIPT"></p>
 
 
 **Requirements**
