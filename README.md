@@ -13,10 +13,8 @@
 
 **Requirements**
 * Python 3
+* A brain
 
-## How to install and run it
-On windows you can also get the executable from the releases page.
-ISSUE: The windows executable is getting flagged as a malicious file by chrome and windows 10's realtime protection because it has no singed author.
 
 **Installing**
 ```shell script
